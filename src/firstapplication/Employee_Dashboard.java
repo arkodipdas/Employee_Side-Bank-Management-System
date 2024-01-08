@@ -28,7 +28,7 @@ public class Employee_Dashboard extends JFrame implements ActionListener
                 
                 JLabel name = new JLabel(Name);
                 name.setFont(new Font("Arial",Font.BOLD,20));
-                name.setBounds(230, 90, 80, 18);
+                name.setBounds(230, 90, 180,20);
                 add(name);
                 
                 

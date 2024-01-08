@@ -17,7 +17,7 @@ public class Statement extends JFrame implements ActionListener{
         Image i3=i1.getImage().getScaledInstance(100,100,100 );
         ImageIcon i4 = new ImageIcon(i3);
         JLabel i2= new JLabel(i4);
-        i2.setBounds(50,10,100,100);
+        i2.setBounds(350,10,100,100);
         add(i2);
         
         
